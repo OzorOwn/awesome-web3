@@ -458,6 +458,7 @@
 - [rivet.cloud](https://rivet.cloud/)
 - [Tatum](https://tatum.io/)
 - [Juno](https://juno.build)
+- [Frostbyte](https://frostbyte-landing.vercel.app)
 - [Mindlyn](https://mindlyn.io)
 
 ## Other
